@@ -1,0 +1,1 @@
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Bernice", 23, "Female", "Brown", "Loose Cannon", ) 
