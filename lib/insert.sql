@@ -1,1 +1,2 @@
-INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Bernice", 23, "Female", "Brown", "Loose Cannon", ) 
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Bernice", 23, "Female", "Brown", "Loose Cannon", 1)
+INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Beatrice", 23, "Female", "Brown", "Calm", 1)
